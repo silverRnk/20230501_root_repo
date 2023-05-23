@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/silverRnk/20230501_admin_page.git
+[submodule "server"]
+	path = server
+	url = https://github.com/silverRnk/20230501_server.git
